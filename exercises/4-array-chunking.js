@@ -8,4 +8,8 @@
 // chunk([1, 2, 3, 4, 5], 4) --> [[ 1, 2, 3, 4], [5]]
 // chunk([1, 2, 3, 4, 5], 10) --> [[ 1, 2, 3, 4, 5]]
 
+//use build in fn methods => put empty array, while loop, push, slice , add index += size
+
 function chunk(array, size) {}
+
+console.log(chunk([1, 2, 3, 4, 5, 6, 7, 8], 3));

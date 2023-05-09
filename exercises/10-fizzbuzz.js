@@ -12,6 +12,8 @@
 //   4
 //   buzz
 
+//use build in fn methods => for loop with i and check condition with able to divided by 3 & 5
+
 function fizzBuzz(n) {}
 
-fizzBuzz(5)
+fizzBuzz(5);

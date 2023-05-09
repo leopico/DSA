@@ -8,4 +8,8 @@
 //   reverseInt(-15) === -51
 //   reverseInt(-90) === -9
 
+//use build in fn methods =>toString, split, reverse, join, change to integer parseInt and multiple wih Math.sign(n) for negative value
+
 function reverseInt(n) {}
+
+console.log(reverseInt(-15));

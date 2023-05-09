@@ -14,6 +14,11 @@
 //       ' ### '
 //       '#####'
 
+//use build in fn methods nested loop
+//row = same row output
+//col = 2n - 1 => eg: row is 3 and then will get output col is 5
+//Math.floor(2*n -1)/2
+
 function pyramid(n) {}
 
-pyramid(3)
+pyramid(3);

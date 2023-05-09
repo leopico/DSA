@@ -7,6 +7,8 @@
 //   capitalize('what is titlecase?') --> 'What Is Titlecase?'
 //   capitalize('titles of books, movies, songs, plays and other works') --> 'Titles Of Books, Movies, Songs, Plays And Other Works'
 
+//use build in fn methods => split, for loop with of,toUpperCase, slice, join
+
 function capitalize(str) {}
 
-console.log(capitalize('this is mukhtar from coding money'));
+console.log(capitalize("this is mukhtar from coding money"));

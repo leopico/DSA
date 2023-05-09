@@ -8,7 +8,10 @@
 //   anagrams('RAIL! SAFETY!', 'fairy tales') --> True
 //   anagrams('Hi there', 'Bye there') --> False
 
+//use build in fn methods => toLowerCase, replace, for loop with of, obj to array,
+
+function charMap(str) {}
+
 function anagrams(stringA, stringB) {}
 
-
-console.log(anagrams('RAIL! SAFETY!', 'fairy tales'));
+console.log(anagrams("coding money", "money coding"));

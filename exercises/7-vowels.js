@@ -6,8 +6,9 @@
 //   vowels('Hi There!') --> 3
 //   vowels('How are you?') --> 5
 //   vowels('Coding Money') --> 4
-//   vowels('why?') --> 0 
+//   vowels('why?') --> 0
 
+//use build in fn method (1.match / 2.includes)
 function vowels(str) {}
 
-console.log(vowels('Coding Money'));
+console.log(vowels("How are you?"));
